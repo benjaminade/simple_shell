@@ -1,2 +1,1 @@
-
-Hi John, please rewrite the contents of this file. Then, add, commit and push. Thanks
+ALX Team project on Simple shell by Benjamin Adeleye and Omoha John
